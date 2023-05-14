@@ -1,0 +1,7 @@
+Comandos de inicializacion de proyecto
+
+GIT INIT
+sobre la carpeta a seguir traking
+
+GIT BRANCH -M <NOMBRERAMA>
+cambiar nombre de rama principal
