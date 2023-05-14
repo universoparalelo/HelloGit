@@ -5,3 +5,17 @@ sobre la carpeta a seguir traking
 
 GIT BRANCH -M <NOMBRERAMA>
 cambiar nombre de rama principal
+
+Comandos de agregar y sacar foto
+
+GIT STATUS
+visualizar que archivos no estan trakeados o cuales se empezo a trakear
+
+GIT ADD .
+agregar todos los archivos que no estan trakeados
+
+GIT COMMIT -M "MENSAJE"
+sacar una foto al proyecto con un mensaje describiendo esa version del proyecto
+
+GIT LOG
+visualizar todos los cambios hechos al proyecto (commits) y quien los hizo
